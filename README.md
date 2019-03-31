@@ -1,5 +1,5 @@
 # PrimerTrabajoConPython
-pequeño proyecto hecho con python. Menú de elecciones de cafetería para cliente.
+Pequeño proyecto hecho con python. Menú de elecciones de cafetería para cliente.
 
 
 Primer proyecto hecho con Python, el usuario elige las bebidas que desea ordenar y 
